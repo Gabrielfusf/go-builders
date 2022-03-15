@@ -2,7 +2,7 @@ import styled from 'styled-components/native';
 import {  Feather  } from '@expo/vector-icons'
 
 export const Container = styled.View`
-width: 300px;
+width: 100%;
 border-radius: 5px;
 padding: 15px 20px;
 padding-bottom: 35px;

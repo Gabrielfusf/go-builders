@@ -21,3 +21,8 @@ Dir: global -> Padronizaçao de styles e tema
 Dir: screens -> Screens files
 Dir: services -> Integraçao Api weather
 
+
+
+>>>>>PRINTS Na Raiz<<<<<<<
+Print_Iphone7.jpeg
+Print_IphoneSE.jpeg

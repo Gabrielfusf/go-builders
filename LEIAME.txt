@@ -1,0 +1,23 @@
+Olá Builders, Desafio aceito.
+
+Obs: Aplicativo desenvolvido utilizando Expo.
+
+
+1 - Baixar App do repositorio
+
+2 - yarn ou npm install
+
+3 - expo start -c
+
+
+
+Estrutura de pastas:
+
+SRC: Conteudo da aplicação 
+
+Dir: assets -> imagens
+Dir: Components -> Components files
+Dir: global -> Padronizaçao de styles e tema
+Dir: screens -> Screens files
+Dir: services -> Integraçao Api weather
+
